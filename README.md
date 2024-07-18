@@ -1,4 +1,5 @@
 # Om Sai Ram Store Power BI Dashboard
+![Uploading dashboard'.PNG…]()
 
 This repository contains the Power BI dashboard project for Om Sai Ram Store. The dashboard provides comprehensive insights into the store's performance, sales, and other key metrics.
 
